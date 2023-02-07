@@ -1,0 +1,82 @@
+body{
+    color: black;
+}
+
+nav{
+    display: none;
+}
+
+header{
+    display: none;
+}
+
+h2{
+    display: none;
+}
+footer{
+    display: none;
+}
+
+.background{
+    display: none;
+}
+
+.doctor-img{
+    display: none;
+}
+
+.brain-img{
+    display: none;
+}
+
+.res-img{
+    display: none;
+}
+
+.main-heading > p{
+    display: none;
+}
+
+.first-image{
+    display: none;
+}
+
+.second-image{
+    display: none;
+
+}
+
+.third-image{
+    display: none;
+}
+
+.pastmain-heading > p{
+    display: none;
+}
+
+.videoandpar1 > iframe{
+    display: none;
+}
+.img1{
+    display: none;
+}
+.videoandpar2 > video{
+    display: none;
+}
+
+.img2{
+    display: none;
+}
+
+.chemotherapy-image{
+    display: none;
+}
+
+.radiation-image{
+    display: none;
+}
+
+.surgery-image{
+    display: none;
+}
+
